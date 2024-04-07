@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "Book",
+    "price": 10.94,
+    "imgUrl": "https://picsum.photos/id/117/300/300"
+  },
+  {
+    "id": "2",
+    "name": "Computer",
+    "price": 124.99,
+    "imgUrl": "https://picsum.photos/id/224/300/300"
+  },
+  {
+    "id": "3",
+    "name": "Banana",
+    "price": 2.34,
+    "imgUrl": "https://picsum.photos/id/934/300/300"
+  },
+  {
+    "id": "4",
+    "name": "Car",
+    "price": 5760.99,
+    "imgUrl": "https://picsum.photos/id/536/300/300"
+  }
+
+]
